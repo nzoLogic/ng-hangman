@@ -1,5 +1,4 @@
-console.log('hangmanGame loaded');
-
+console.log('hangmanGame loaded')
 // HangmanGame
 // to use:
 // 1. var game = new HangmanGame('supersecretword');
